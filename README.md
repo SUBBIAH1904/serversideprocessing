@@ -143,8 +143,6 @@ urlpatterns = [
 ### Home Page:
 
 
-
-
 ![home page](https://github.com/SUBBIAH1904/serversideprocessing/assets/147473604/7392dfe6-bada-46ec-ab67-e964e600de35)
 
 
