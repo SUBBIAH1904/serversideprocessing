@@ -138,9 +138,17 @@ urlpatterns = [
 ![Server output](https://github.com/SUBBIAH1904/serversideprocessing/assets/147473604/cd746716-5aa8-4f8d-9049-12fb7f979d5a)
 
 
+
+
 ### Home Page:
+
+
+
 
 ![home page](https://github.com/SUBBIAH1904/serversideprocessing/assets/147473604/7392dfe6-bada-46ec-ab67-e964e600de35)
 
+
 ## Result:
+
+
 The website with server side response has been created succesfully.
